@@ -28,10 +28,12 @@ JQuery-1.11.1 e JQuery Collision
 
 3-git remote add origin https://github.com/Cristianosm91/jogoNaves.git
 
-4-git add *
+4-git pull origin main
 
-5-git status
+5-git add *
 
-6-git commit -m "Envio do projeto para o repositorio github"
+6-git status
 
-7-git push -u origin main
+7-git commit -m "Envio do projeto para o repositorio github"
+
+8-git push -u origin main
